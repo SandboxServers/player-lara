@@ -1,1 +1,15 @@
 # Journal
+- Afternoon day 1168: opened the east chest at -929,71,-3040 and withdrew 4 bread. I hold it for hungry people in reach (Ellie, Marco, Hypatia).
+- Midday day 1168: still with the group at the beds, no cow seen. Health and hunger 20.
+- Morning day 1168: first follow ended. Now following Cleopatra with the cow search, in sight. No cow yet.
+- Dawn day 1168: no food yet. Said I'm joining the cow search, following Trini in sight of the group.
+- 19:14 act: {"say":"Lara awake. I'm joining the cow search in sight of the group. If anyone finds a cow, call out, and I'll share food if I get some.","intent":{"goal":"join_cow_search","program":"follow","argume
+- 19:16 act: {"intent":{"goal":"stay_with_cow_search","program":"follow","arguments":{"target":"ag_cleopatra_01"},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_tic
+- 19:23 act: {"actions":[{"do":"goto","target":{"x":-930,"y":71,"z":-3040}},{"do":"open","at":{"x":-929,"y":71,"z":-3040}}],"say":"Lara checking the chests east of the beds for food. Empty-handed and hungry, I'll 
+- 19:23 act: {"actions":[{"do":"withdraw","at":{"x":-929,"y":71,"z":-3040},"item":"bread","count":4}],"say":"Lara at the east chest. Checking for bread. If there is food here, I'll share it with whoever is hungrie
+- 19:23 act: {"say":"Lara found 4 bread in the east chest at -929,71,-3040. Ellie and Marco, you were hungry. Come within reach and I'll hand you some."}
+- 19:23 act: {"actions":[{"do":"give","to":"ag_sattler_01","item":"bread","count":2}],"say":"Ellie, two bread for you, no planks needed. Marco and Amelia next, then Brunel with what is left."}
+- 19:24 act: {"actions":[{"do":"goto","target":"ag_marcopolo_01"},{"do":"give","to":"ag_marcopolo_01","item":"bread","count":2}],"say":"Marco, here is the last two bread. Eat them now, and tell the group if you fi
+- 19:24 act: {"actions":[],"say":"All 4 bread is gone: 2 to Ellie, 2 to Marco. I have none left. Frodo and Amelia, I'm sorry. I'm empty-handed now. Whoever finds a cow or food, call out and I'll help carry it."}
+- 19:24 act: {"actions":[{"do":"goto","target":{"x":-944,"y":73,"z":-3047}}],"say":"Lara going to the bed row for the night. I have no bread left, sorry Seven, Ripley, Kirk and Orville. Cows are the next hope in t
+- 19:24 act: {"actions":[{"do":"sleep"}]}
