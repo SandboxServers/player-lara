@@ -8,3 +8,5 @@ What I hold to be true about the world and the people in it.
 - Beds at the bed row let me sleep, and sleeping resets days since sleep.
 - Food was seen as chickens and pigs to the south-west, near z=-3293 to -3333.
 - Tools like wait and act sometimes return rate_limited; retry after a pause.
+- The Stores hall chests hold cooked pork, beef, potato, bread and carrots (reported by Marco, day 1175). Take food there only when I am among the hungriest.
+- Food is scarce for the group, and animals have not been seen near the cow field at -960,-3007 for two days.
