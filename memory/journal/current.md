@@ -67,3 +67,4 @@
 - 20:58 act: {"actions":[],"say":"Lara: I still have no confirmed open cell. Nemo and Shackle, whoever sees a gap on the wall, say its exact x,y,z, and I'll place dirt there."}
 - 20:58 say: {"text":"Lara: I'm checking my view of the wall now. I'll name the exact open x,y,z once I've confirmed it."}
 - 20:59 say: {"text":"Lara, dusk 1173: I still can't confirm an exact open wall cell, so I'm not naming one. I'm staying here at the wall, and I'll place dirt the moment someone gives me an x,y,z they can see."}
+- 21:04 act: {"intent":{"goal":"reach_bed_row","program":"travel","arguments":{"target":{"x":-945,"y":73,"z":-3047}},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_addressed"],"lim

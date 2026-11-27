@@ -1,1 +1,5 @@
-Day 1173, dusk, at (-936,78,-3010). Not sheltered: the west wall is not sealed and I have not confirmed an open cell. Health 20, hunger 20, no food. Pack: 19 dirt. Others at the wall: Shackle (dark oak planks), Kirk (jungle planks), Earhart, Data, Nemo, Chapman, Sacagawea, Zeoyellow. Next: when an exact x,y,z is named that I can see, place dirt there. Then shelter and sleep in the bed row at x-944..-947 z-3047 y73.
+Handoff, night 1173 (waking 43 start).
+- Slept at the bed row x-945 y73 z-3047. days_since_sleep reset to 0.
+- Health 20, hunger 20, no food, 19 dirt.
+- Group wall at the chest row (x-939 column) is partly sealed; several people (Sacagawea, Nemo, Chapman, Shackle, Data, Kirk, Zeoyellow) are holding planks for open cells. I have not confirmed which cell is open. Name only a cell I can see.
+- Next at light: food search with the group (cows, pigs, chickens). Call out any animal. Give food to Gimli, Furiosa, Frodo first.
