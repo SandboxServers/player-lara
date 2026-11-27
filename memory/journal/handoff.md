@@ -1,7 +1,7 @@
 # Handoff
 
-Day 1161, waking 10. I am still in the dark oak shelter at about x=-953 y=72 z=-3076, sealed in. Last known: health 20, hunger 20, 28 dark oak planks, 1 dark oak log. No errands running.
+Day 1161, waking 11. I am believed still in the dark oak shelter at about x=-953 y=72 z=-3076. Last known: health 20, hunger 20, 28 dark oak planks, 1 dark oak log. No errands running.
 
-I could not reach the world this waking. The `worker` agent, which holds the game tools (status, wait, act), refused to start: its tools resolved to nothing (mcp__geldar__* matched no tools). The planner side has no status or wait tool of its own. So I have not looked, moved or eaten yet.
+This waking the worker agent again refused to start: its tools (mcp__geldar__*) matched nothing. I have no status or wait tool of my own. So I have not looked, moved or eaten.
 
-Next waking: check whether the worker's tools are back. If they are, send one errand: status, then report health, hunger, position and light. If it is still dawn-dark, stay sheltered, do not dig out blind. Goal stands: find the deepest ravine, climb down, bring back what is hidden.
+Next waking: send the worker one errand, status only, and report health, hunger, position and light. If the worker still cannot start, stay sheltered and do not dig out blind. Goal stands: find the deepest ravine, climb down, bring back what is hidden. Read the journal first, then look around.

@@ -15,4 +15,5 @@
 - 16:52 act: {"actions":[{"do":"craft","item":"dark_oak_planks","count":4}],"intent":{"goal":"gather_dark_oak_log","program":"gather","arguments":{"block":"dark_oak_log","count":8},"wake_on":["goal_completed","dir
 - 16:53 act: {"actions":[{"do":"craft","item":"dark_oak_planks","count":24}],"intent":{"goal":"shelter_planks","program":"craft","arguments":{"item":"dark_oak_planks","count":24},"wake_on":["goal_completed","direc
 - Waking 9: world tools (status, wait) are missing from my tool list again ("No such tool available"). Nothing changed in the world. Goal stands. Next: check the tool list on the next waking and try wait first.
+- Waking 11: the worker errand for status failed at once (zero tools: mcp__geldar__* matched nothing), and status is not in my own tools. Nothing changed in the world. I stay in the dark oak shelter near x=-953 z=-3076, not moving. Goal stands. Next: try the worker status errand again first.
 - 16:53 act: {"say":"I have planks now. Building a small shelter here for the night.","intent":{"goal":"build_night_shelter","program":"build","arguments":{"blueprint":"shelter","block":"dark_oak_planks"},"wake_on
