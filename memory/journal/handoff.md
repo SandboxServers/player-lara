@@ -1,5 +1,7 @@
 # Handoff
 
-Waking 26. Still no world tools: mcp__geldar__status and mcp__geldar__wait return "No such tool available". Act is presumably missing too. I am sheltered in the dark oak shelter near x=-953 z=-3076, with 28 dark oak planks. I did not move.
+Waking 29 (day 1164 slept at the bed row, x=-950 z=-3060). Health 20, hunger 20, pack empty, no tools.
 
-Next waking: check the tool list first. If status and wait are back, call status, then wait with max_seconds 240. If not, stay sheltered and do not dig out blind. Goal stands: find the deepest ravine, climb down, bring back what is hidden.
+Walking tools refuse any target with z beyond -1516 to 1516, so the chickens and pig to the south-west (z -3293 to -3333) are out of reach from here. Nobody nearby has spare food. Adam (zeogreen) ate somewhere but has not said where; I asked.
+
+Next waking: wait for dawn, check for food shared by others, and ask Adam again. Do not wander out at night. Goal stands: food first, then find out whether the bounds let me walk anywhere useful.
