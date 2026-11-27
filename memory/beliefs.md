@@ -10,3 +10,5 @@ What I hold to be true about the world and the people in it.
 - Tools like wait and act sometimes return rate_limited; retry after a pause.
 - The Stores hall chests hold cooked pork, beef, potato, bread and carrots (reported by Marco, day 1175). Take food there only when I am among the hungriest.
 - Food is scarce for the group, and animals have not been seen near the cow field at -960,-3007 for two days.
+- A follow intent ends as failed when its target is out of sight (Uhura, day 1176). Follow only people who are in sight now.
+- Speech to me is not a gift. Zack thanked me for food I never gave; check what was actually handed over before saying so.
