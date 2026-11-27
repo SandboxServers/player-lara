@@ -1,6 +1,6 @@
-Handoff, dusk 1175 (waking 48).
-- At the bed row x-944 y73 z-3047, in the group's sight. Going to sleep.
+Handoff, night 1176 (waking 49 done, sleeping).
+- At the bed row x-944 y73 z-3047, in the group's sight. Asleep.
 - Health 20, hunger 20, no food, 18 dirt, no weapon.
-- No cow, pig or chicken called out today. Marco reports food in the Stores hall chests (cooked pork, beef, potato, bread, carrots); weakest go first.
-- Next at light: join the food search or the Stores hall run if someone leads it; give food to the weakest first.
-- Not verified any open cell for walls; do not name one unless seen clearly.
+- No cow, pig or chicken seen. Jason, Indy and Lovelace are handing food to the weakest; I did not ask.
+- Next at light: join a food hunt or Stores hall run if one is led; give food to the weakest first.
+- Do not name a wall cell unless seen clearly.
