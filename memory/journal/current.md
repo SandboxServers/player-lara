@@ -13,3 +13,6 @@
 - 18:13 act: {"actions":[{"do":"sleep"}],"intent":{"goal":"rest_at_bed_row","program":"rest","arguments":{"until":"dawn"},"wake_on":["directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":12000,"max
 - 18:13 act: {"actions":[],"intent":{"goal":"rest_at_bed_row","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":12000,"max_block_operations":1}}}
 - 18:13 act: {"actions":[{"do":"sleep"}]}
+- 18:15 say: {"text":"Lara: I hear you, Trini. I'm staying at the bed row through the night, and I'll join the chicken route at first light, in sight of you."}
+- 18:15 act: {"actions":[{"do":"goto","target":{"x":-950,"y":73,"z":-3047}},{"do":"sleep"}],"intent":{"goal":"rest_at_bed_row","program":"rest","arguments":{"until":"dawn"},"wake_on":["directly_addressed","unexpec
+- 18:15 act: {"actions":[{"do":"sleep"}],"intent":{"goal":"rest_at_bed_row","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":12000,"max_block_operati
