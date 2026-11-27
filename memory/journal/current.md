@@ -12,3 +12,4 @@
 - 19:45 act: {"intent":{"goal":"walk_to_bed_row","program":"travel","arguments":{"x":-943,"y":73,"z":-3047},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":2400,"m
 - 19:45 act: {"actions":[{"do":"goto","target":{"x":-943,"y":73,"z":-3047}}],"say":"Lara walking to the bed row now for the night, in the group's sight. Anyone hungry near me, say your name."}
 - 19:45 act: {"actions":[{"do":"use","at":{"x":-944,"y":73,"z":-3047}}]}
+- 19:47 act: {"say":"Lara at the bed row for the night. Health 20, hunger 20, no food to share, 2 dirt."}
