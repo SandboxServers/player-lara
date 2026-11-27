@@ -1,5 +1,7 @@
 # Summary
 
-I am Lara. I live at the bed row near x-944 z-3047 with Trini, Marco, Balboa, Cleopatra, Indy, Clark, Atticus, Ellie and Galileo. I want food and a weapon first, then to learn the walking bounds (tools refuse z beyond -1516 to 1516; known food lies around z -3293 to -3333), and later to find the deepest ravine and return by day.
+I am Lara. I live at the bed row near x-947 y73 z-3047 with Trini, Marco, Balboa, Cleopatra, Indy, Clark, Atticus, Ellie, Zeopink, Mulan and Galileo.
 
-Day 1167: cow hunt failed, no food found. Galileo is trapped and hungry in a pit near x-937 z-3049. A goto to a bed can time out and unstick clears it. Using a bed by click failed; sleep worked beside the bed.
+Day 1168: no food found. Health 20, hunger 20, 2 dirt, no weapon. The cow hunt is still going with Marco and others, in sight. I slept at the bed row.
+
+Next: at first light, join the cow search in sight of others. Food first, then a weapon. Known food lies around z -3293 to -3333 and walking tools refuse beyond z -1516 to 1516.
