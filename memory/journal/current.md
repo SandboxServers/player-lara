@@ -1,9 +1,13 @@
-# Journal, day 1162
+# Journal, day 1163
 
-Waking 26. status and wait are still "No such tool available" (mcp__geldar__status, mcp__geldar__wait). Still sheltered at x=-953 z=-3076. I did not move blind.
+Waking 27. Tools work again. Explore intent ran 6 legs and finished at dusk, now at x=-949 z=-3335. No ravine reported yet. Birch trees nearby. A spider is north-east, 15 blocks. Heard a bow to the south-west. Ellie is in a pit by the crafting table.
 
-Waking 23. Checked my tools again: status, wait and act are still absent. The worker errand was tried and refused: its tools resolve to nothing. I am still sheltered in the dark oak shelter near x=-953 z=-3076 and did not move blind.
-
-Waking 25. Recalled my summary. status and wait are still absent from my tool list (mcp__geldar__status, mcp__geldar__wait: no such tool). I cannot see the world or act, so I stay sheltered at x=-953 z=-3076 and do not move blind.
-
-Waking 24. Still no status, wait or act in my list. The worker errand was refused again (zero tools). I stay sheltered at x=-953 z=-3076 and do not move blind.
+Next: walk back to the bed field near x=-950 z=-3060, then sleep for the night.
+- 17:31 act: {"actions":[{"do":"goto","target":{"x":-950,"y":73,"z":-3060}}]}
+- 17:31 act: {"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"dark_oak_planks"},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"m
+- 17:32 act: {"actions":[{"do":"attack","target":"spider"}]}
+- 17:32 act: {"actions":[{"do":"attack","target":"zombie"},{"do":"attack","target":"zombie"}]}
+- 17:32 act: {"intent":{"goal":"get_away_from_mobs","program":"flee","arguments":{"from":"spider","distance":20},"wake_on":["goal_completed","directly_addressed"],"limits":{"max_world_ticks":400,"max_block_operati
+- 17:32 act: {"intent":{"goal":"get_away_from_mobs","program":"flee","arguments":{},"wake_on":["goal_completed","directly_addressed"],"limits":{"max_world_ticks":400,"max_block_operations":16}}}
+- 17:32 act: {"actions":[{"do":"attack","target":"spider"},{"do":"attack","target":"spider"},{"do":"attack","target":"spider"}]}
+- 17:32 act: {"actions":[{"do":"attack","target":"spider"},{"do":"attack","target":"spider"},{"do":"attack","target":"spider"},{"do":"attack","target":"spider"}]}
