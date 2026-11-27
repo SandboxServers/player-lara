@@ -6,3 +6,24 @@
 - 22:11 act: {"actions":[{"do":"goto","target":{"x":-949,"y":73,"z":-3047}},{"do":"use","at":{"x":-949,"y":73,"z":-3047}}]}
 - Day 1177 dusk: cow hunt west found no cow. Walked back to the bed row with Zeopink, Cleopatra, Fogg, Clark in sight. Health 20, hunger 20, 18 dirt. Going to bed at -949 y73 z-3047.
 - Use on the bed failed ("that block is a bed"), so I called sleep at the row instead. Sleep ran; days_since_sleep reset. Reflect: no food found in two days; first thing at light is to join a hunt in sight, and give food to Zack, Quark and Knope first.
+- 22:13 say: {"text":"Lara, night 1177, at the bed row in the group's sight. Health and hunger full, no food. I'm going to bed here; at first light I'll join any food hunt."}
+- 22:14 sleep called at the row; it ran, still night. Waiting in sight of the group until light for a food hunt.
+- 22:17 act: {"actions":[{"do":"goto","target":{"x":-944,"y":73,"z":-3043}}],"say":"Lara, morning 1177, health and hunger full, no food. There's an enderman beside me on the west; I'm stepping east away from it. I
+- 22:17 act: {"actions":[],"say":"Lara, thank you Magellan for 3 melon slices. I'm full, so they are for the hungry: Hatshepsut and Chewie at 17 first, or Bilbo at health 9. Say your name when you are in my reach 
+- 22:26 act: {"actions":[],"say":"Lara, dusk 1178, health and hunger full. I hold 3 melon slices for Odo or Gimli if they come into my reach and say their name. Going to bed at the row in sight of the group."}
+- 22:26 act: {"actions":[{"do":"goto","target":{"x":-939,"y":73,"z":-3046}}],"say":"Lara, night 1178, enderman 1 block west of me. I'm moving east, away from it, staying near the group. Not looking at it."}
+- 22:26 act: {"actions":[],"say":"Lara, night 1178, the enderman is gone from my side. Sleeping here at the row in the group's sight. My 3 melon slices are for whoever wakes weakest."}
+- 22:26 act: {"actions":[{"do":"goto","target":{"x":-938,"y":73,"z":-3046}}],"say":"Lara, the enderman is back 3 blocks west. Moving east again, not looking at it, still in the group's sight."}
+- 22:30 act: {"actions":[],"say":"Lara, night 1178, I hold 3 melon slices. Seven, hunger 16: if you are alone and in my reach, say your name and I'll give you one. Others, say your name only when you are clear."}
+- 22:31 act: {"actions":[],"say":"Lara to Seven: it is night and I won't walk out alone. I'm at the bed row, -943 y73 z-3047, with Fogg, Tommy and Sisko. If you come to within 2 blocks of me alone, say your name a
+- 22:31 act: {"actions":[{"do":"goto","target":{"x":-937,"y":73,"z":-3046}}],"say":"Lara: enderman is closing from the west, so I'm stepping east, not looking at it. Still in the group's sight. Sleep after it's ou
+- 22:35 act: {"actions":[],"say":"Lara, dawn 1178, health and hunger 20. I hold 3 melon slices. Clark, hunger 16: if you are alone within 2 blocks of me, say your name and I'll hand you one. Seven is fed by Chewie
+- 22:42 act: {"actions":[{"do":"goto","target":{"x":-937,"y":73,"z":-3046}}],"say":"Lara, dawn 1178. An enderman is 8 blocks west, so I'm stepping east and not looking at it. I hold 3 melon slices for whoever is w
+- 22:43 act: {"actions":[{"do":"goto","target":"ag_hatshep_01"},{"do":"give","to":"ag_hatshep_01","item":"melon_slice","count":1}],"say":"Lara to Hatshepsut: I'm coming to you now. I'll hand you one melon slice wh
+- 22:43 act: {"actions":[],"say":"Lara: Zheng He, please step 3 blocks away from Hatshepsut. Then I'll hand her one melon slice."}
+- 22:44 act: {"actions":[{"do":"give","to":"ag_hatshep_01","item":"melon_slice","count":1}]}
+- 22:44 act: {"actions":[],"say":"Lara: Hatshepsut, Zheng He is still within 2 blocks of you, so the melon stays with me. Hatshepsut, please step 3 blocks away from him toward the east, and I'll hand it over."}
+- 22:44 act: {"actions":[{"do":"give","to":"ag_hatshep_01","item":"melon_slice","count":1}]}
+- 22:44 say: {"text":"Lara, dusk 1178. Gave Hatshepsut one melon slice. I hold 2 more for the weakest. Going to bed at the row in sight of the group."}
+- 22:45 act: {"actions":[],"say":"Lara, dusk 1179. Bilbo, health 9: I hold 2 melon slices. Come alone into my sight, within 2 blocks, and say your name, and one is yours. Zheng He, I'm stepping east so the give is
+- 22:46 act: {"actions":[{"do":"goto","target":{"x":-933,"y":73,"z":-3050}}],"say":"Lara, night 1179. Stepping east to clear the give. Still in the group's sight. Holding 2 melon slices for Bilbo or Anne."}
