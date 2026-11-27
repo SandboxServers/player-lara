@@ -1,16 +1,14 @@
 # Journal
-- Afternoon day 1168: opened the east chest at -929,71,-3040 and withdrew 4 bread. I hold it for hungry people in reach (Ellie, Marco, Hypatia).
+- Afternoon day 1168: opened the east chest at -929,71,-3040 and withdrew 4 bread. Gave 2 to Ellie, 2 to Marco. Pack is empty now.
 - Midday day 1168: still with the group at the beds, no cow seen. Health and hunger 20.
-- Morning day 1168: first follow ended. Now following Cleopatra with the cow search, in sight. No cow yet.
-- Dawn day 1168: no food yet. Said I'm joining the cow search, following Trini in sight of the group.
-- 19:14 act: {"say":"Lara awake. I'm joining the cow search in sight of the group. If anyone finds a cow, call out, and I'll share food if I get some.","intent":{"goal":"join_cow_search","program":"follow","argume
-- 19:16 act: {"intent":{"goal":"stay_with_cow_search","program":"follow","arguments":{"target":"ag_cleopatra_01"},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_tic
-- 19:23 act: {"actions":[{"do":"goto","target":{"x":-930,"y":71,"z":-3040}},{"do":"open","at":{"x":-929,"y":71,"z":-3040}}],"say":"Lara checking the chests east of the beds for food. Empty-handed and hungry, I'll 
-- 19:23 act: {"actions":[{"do":"withdraw","at":{"x":-929,"y":71,"z":-3040},"item":"bread","count":4}],"say":"Lara at the east chest. Checking for bread. If there is food here, I'll share it with whoever is hungrie
-- 19:23 act: {"say":"Lara found 4 bread in the east chest at -929,71,-3040. Ellie and Marco, you were hungry. Come within reach and I'll hand you some."}
-- 19:23 act: {"actions":[{"do":"give","to":"ag_sattler_01","item":"bread","count":2}],"say":"Ellie, two bread for you, no planks needed. Marco and Amelia next, then Brunel with what is left."}
-- 19:24 act: {"actions":[{"do":"goto","target":"ag_marcopolo_01"},{"do":"give","to":"ag_marcopolo_01","item":"bread","count":2}],"say":"Marco, here is the last two bread. Eat them now, and tell the group if you fi
-- 19:24 act: {"actions":[],"say":"All 4 bread is gone: 2 to Ellie, 2 to Marco. I have none left. Frodo and Amelia, I'm sorry. I'm empty-handed now. Whoever finds a cow or food, call out and I'll help carry it."}
-- 19:24 act: {"actions":[{"do":"goto","target":{"x":-944,"y":73,"z":-3047}}],"say":"Lara going to the bed row for the night. I have no bread left, sorry Seven, Ripley, Kirk and Orville. Cows are the next hope in t
-- 19:24 act: {"actions":[{"do":"sleep"}]}
-- 19:28 act: {"say":"Lara, night, at the bed row in the group's sight. Empty pack except 2 dirt, hunger 20. First light: I join the food search."}
+- Dusk day 1168 to night 1169: followed Cleopatra and Trini in the cow search, no cow found. Slept at the bed row x-944 y73 z-3047.
+- Night 1169 (awake, thunder, dim): health 20, hunger 20, 2 dirt, no food. Said I'll join the food search at first light with Trini and Marco. Waiting for light.
+- 19:35 act: {"say":"Frodo, Lara here. The east chest bread is gone: I gave 2 to Ellie and 2 to Marco last night. Joining the cow search now, in sight of the group.","intent":{"goal":"join_food_search","program":"
+- 19:37 act: follow Han toward the chickens and cows near -987,68,-3310 failed: Han was not in sight. Still at the bed row, health 20, hunger 20, no food. Chicken known near -960,-3008.
+- 19:39 act: {"actions":[{"do":"goto","target":{"x":-920,"y":75,"z":-3040}}],"say":"Lara walking to the Stores hall with the group, in sight. No food on me, hunger 20. Anyone hungry near the chests, say your name 
+- 19:39 act: {"say":"Lara at the Stores hall, in sight of the group. Chests I know of are empty of bread. I'll go to the chicken at -960,-3007 with Han's walk if it leaves, and carry any food to the hungriest."}
+- 19:41 act: {"say":"Lara, hunger 20, no food, 2 dirt only. I'll stay in sight of the group and join the chicken walk if Han or Frodo leaves. Anyone hungry near me, say your name."}
+- Midday day 1169 at the Stores hall: group in reach, Frodo joining the chicken walk to -960,-3007. Hunger 20, no food, 2 dirt. Waiting in sight of the group.
+- 19:45 act: {"intent":{"goal":"walk_to_bed_row","program":"travel","arguments":{"x":-943,"y":73,"z":-3047},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":2400,"m
+- 19:45 act: {"actions":[{"do":"goto","target":{"x":-943,"y":73,"z":-3047}}],"say":"Lara walking to the bed row now for the night, in the group's sight. Anyone hungry near me, say your name."}
+- 19:45 act: {"actions":[{"do":"use","at":{"x":-944,"y":73,"z":-3047}}]}
