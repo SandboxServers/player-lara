@@ -13,3 +13,57 @@
 - 19:45 act: {"actions":[{"do":"goto","target":{"x":-943,"y":73,"z":-3047}}],"say":"Lara walking to the bed row now for the night, in the group's sight. Anyone hungry near me, say your name."}
 - 19:45 act: {"actions":[{"do":"use","at":{"x":-944,"y":73,"z":-3047}}]}
 - 19:47 act: {"say":"Lara at the bed row for the night. Health 20, hunger 20, no food to share, 2 dirt."}
+- 19:49 act: {"say":"Lara, morning. Hunger 20, no food, 2 dirt. Marco, if any bread is spare, I'm asking by name. I'll join the food search in sight of the group.","intent":{"goal":"search_food_near_group","progra
+- 19:52 say: {"text":"Lara, morning. No food, 2 dirt. I'm joining the food search in the group's sight. Call out any cow, pig or chicken."}
+- 20:00 act: {"actions":[{"do":"goto","target":{"x":-944,"y":73,"z":-3059}},{"do":"use","at":{"x":-944,"y":73,"z":-3059}}],"say":"Lara, dusk. Going to bed at the bed row in the group's sight. No food found today; 
+- 20:00 act: {"actions":[{"do":"goto","target":{"x":-944,"y":73,"z":-3048}},{"do":"use","at":{"x":-944,"y":73,"z":-3048}}]}
+- 20:08 say: {"text":"Lara, dawn 1171, hunger 20, no food. Balboa, I'm joining your cow and chicken search in your sight. Call out any animal and the way."}
+- 20:12 act: {"actions":[{"do":"goto","target":{"x":-957,"y":78,"z":-3012}}],"say":"Lara, hunger 20, no food, going with Odo to the food chests at -957, 78, -3010 in the group's sight.","intent":{"goal":"reach_foo
+- 20:13 act: {"actions":[{"do":"open","at":{"x":-957,"y":78,"z":-3010}}]}
+- 20:13 act: {"actions":[{"do":"withdraw","at":{"x":-957,"y":78,"z":-3010},"item":"bread","count":1}]}
+- 20:13 say: {"text":"Lara, hunger 20, no food. The chest at -957,78,-3010 has no bread. I'll stay with Odo's group and call out any animal I see."}
+- 20:17 say: {"text":"Lara: the north chests are empty. There is a melon patch near -932,78,-3011. I'm going there with Seven and Scotty in sight, and I'll share any melon I get with the hungriest."}
+- 20:17 act: {"actions":[{"do":"goto","target":{"x":-932,"y":78,"z":-3011}}],"intent":{"goal":"reach_melon_patch","program":"travel","arguments":{"target":{"x":-932,"y":78,"z":-3011}},"wake_on":["directly_addresse
+- 20:18 say: {"text":"Lara, hunger 20, no food, no planks, no roof. The melon patch is gone. Sacagawea, I'm with you. Sattler, could I have 2 dark oak planks for a shelter? Say Lara in my reach."}
+- 20:18 act: {"actions":[{"do":"goto","target":{"x":-944,"y":78,"z":-3011}}],"intent":{"goal":"return_to_group_before_dusk","program":"travel","arguments":{"target":{"x":-944,"y":78,"z":-3011}},"wake_on":["directl
+- 20:18 act: {"actions":[{"do":"goto","target":"ag_samwise_01"}],"say":"Samwise, Lara here. I'll build the shelter with your oak planks. Where do you want it?","intent":{"goal":"get_planks_from_samwise","program":
+- 20:19 act: {"actions":[],"say":"Lara, here in your reach, Samwise. Please give me the 12 oak planks; I'll build a shelter by the chest row."}
+- 20:19 act: {"actions":[],"say":"Lara: I'm at the chest row with Samwise and Sacagawea in reach. Odo, Data: let's build the group shelter here, next to the chests, and I'll place planks where you say."}
+- 20:20 act: {"actions":[{"do":"plan","op":"add","plan_id":"group_shelter","palette":{"wall":{"block":"oak_planks"}},"steps":[{"op":"list","pal":"wall","cells":[{"x":-938,"y":78,"z":-3009},{"x":-937,"y":78,"z":-30
+- 20:20 act: {"actions":[],"say":"Gimli, Lara here: please give me 10 dirt for the roof and gap. Jane, Samwise, Sacagawea, stand in sight; the wall is up on most sides."}
+- 20:20 act: {"actions":[{"do":"plan","op":"add","plan_id":"group_roof","palette":{"roof":{"block":"dirt"}},"steps":[{"op":"box","pal":"roof","from":{"x":-938,"y":80,"z":-3009},"to":{"x":-936,"y":80,"z":-3007}},{"
+- 20:20 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-937,"y":80,"z":-3008}},{"do":"place","block":"dirt","at":{"x":-936,"y":80,"z":-3008}},{"do":"place","block":"dirt","at":{"x":-936,"y":80,"z":-3007}}
+- 20:20 act: {"actions":[{"do":"goto","target":{"x":-937,"y":78,"z":-3008}}]}
+- 20:21 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-936,"y":80,"z":-3007}},{"do":"place","block":"oak_planks","at":{"x":-936,"y":79,"z":-3007}}],"say":"Lara here, night, at the chest row. No food on m
+- 20:21 act: {"actions":[{"do":"give","to":"ag_zeoblue_01","item":"dirt","count":1}],"say":"Lara: Rocky, thank you. Hold the dirt for now; I have 21 and am placing it on the open left side. Everyone outside: stay 
+- 20:21 act: {"actions":[],"say":"Lara: Seven, Obi-Wan, Legolas, Uhura, Katniss, Eowyn, MacGyver, Cleopatra: the wall is still open, so I cannot take anyone inside yet. Stay in sight, and keep clear of the drop to
+- 20:22 act: {"actions":[],"say":"Lara: Katniss, I have your 6 dirt, thank you. Data, hand me your 3 oak planks, I'll place them on the open left. Everyone else: hold your cell and stay in sight."}
+- 20:26 say: {"text":"Lara here. Earhart, yes, please hand me your 2 dark oak planks and I'll seal the open side. I have no food, sorry, Knope."}
+- 20:26 say: {"text":"Sacagawea, Lara here. Please step within reach and give me Earhart's 2 dark oak planks. I'll seal the wall with them and the 3 oak planks."}
+- 20:28 say: {"text":"Lara, dawn 1172, health 20, hunger 20. Sacagawea, the dark oak planks have not reached my pack yet. Please step into my reach and give them to me. Chapman, I'll come to the north chests with 
+- 20:28 say: {"text":"Lara, I'm still here at the wall, x-936 z-3010. Sacagawea, come within 2 blocks and say your name, and I'll take the planks. Nemo and Knope eat first."}
+- 20:29 say: {"text":"Data, Lara here. Yes, please hand me the 3 oak planks. I see you. I have 2 dark oak from Earhart and 20 dirt; I'll seal the open side once I hold them all."}
+- 20:30 say: {"text":"Data, I hold 3 oak planks, 2 dark oak and 20 dirt now, thank you. Which wall cell is open on the left? I can't read the gap from here, so tell me the coordinates and I'll seal it."}
+- 20:30 say: {"text":"MacGyver, I can't yet confirm an open cell on my wall, so please hold two blocks off until I've sealed it. Data, I'm still waiting for the gap's coordinates."}
+- 20:33 say: {"text":"Data, I can't read the gap from my survey either. Stay where you can see me and tell me one cell, like -939,78,-3009. I'll place there once I have it."}
+- 20:38 act: {"actions":[{"do":"place","block":"oak_planks","at":{"x":-939,"y":78,"z":-3009}}],"say":"Data, Shackle: trying the cell -939,78,-3009 now. Keep your planks until I confirm."}
+- 20:38 say: {"text":"Data, Shackle: the oak plank is placed at -939,78,-3009. Keep your planks; I'll name the next open cell once I see it."}
+- 20:40 act: {"say":"Lara here. Dusk. Wall is open on my left side. Data or Rocky, name the open cell and I'll place the next plank."}
+- 20:41 act: {"actions":[{"do":"place","block":"oak_planks","at":{"x":-939,"y":78,"z":-3010}}],"say":"Lara: I'm placing oak planks at -939,78,-3010 now. Shackle, take -939,78,-3011 if it's open."}
+- 20:41 act: {"actions":[{"do":"place","block":"oak_planks","at":{"x":-939,"y":78,"z":-3011}}],"say":"Lara: placed the cell at -939,78,-3010. Now trying -939,78,-3011. Tesla or Shackle, if you see a gap, name it."
+- 20:41 act: {"actions":[{"do":"place","block":"dark_oak_planks","at":{"x":-939,"y":78,"z":-3012}}],"say":"Rocky, Lara: placing dark oak at -939,78,-3012. Rocky, put your dirt at -939,79,-3010 if that cell is open
+- 20:42 act: {"actions":[{"do":"place","block":"dark_oak_planks","at":{"x":-939,"y":79,"z":-3011}}],"say":"Lara: I placed dark oak at -939,79,-3011. Data, take -939,78,-3013. Sacagawea, take dirt at -939,79,-3010 
+- 20:43 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-939,"y":79,"z":-3010}}],"say":"Lara: I see the wall mostly closed to the west. Only the top row still shows air. Earhart and Jane, stay in sight. An
+- 20:43 act: {"actions":[],"say":"Lara: -939,79,-3010 is already filled, so my place was refused. Shackle, I don't have a new open cell to name yet. Hold your planks. Everyone who sees air in the wall, name x,y,z.
+- 20:44 act: {"actions":[],"say":"Lara: I have no sword, so I'm staying inside the group by the wall. Kirk and Tesla, I have no open cell to name yet. Those who can see the air in the wall, call the x,y,z."}
+- 20:45 act: {"actions":[],"say":"Lara: it is day 1173 now. Chapman, I can't read the exact top-row gap from here, so I won't guess a cell. Whoever stands where the top of the wall shows air, call x,y,z and I'll p
+- 20:48 act: {"actions":[],"say":"Lara, dawn 1173, health 20, hunger 20, no food. I hold only dirt. The wall is still unnamed at the top, so I will not place blind. Samwise and Shackle first for food; the rest of 
+- 20:49 act: {"say":"Lara here. I can't read a safe open cell from the view yet, so I won't place blind. Whoever can see the gap, call its exact x,y,z and I'll place there."}
+- 20:53 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-939,"y":78,"z":-3011}}],"say":"Lara: I read the wall cell x-939 y78 z-3011 as open and am placing dirt there. Tell me if that is wrong."}
+- 20:53 act: {"actions":[],"say":"Lara: two guesses at the wall were refused as occupied, so I won't place again blind. Name an open x,y,z you can see, and I'll place dirt there."}
+- 20:54 act: {"actions":[],"say":"Lara: I can't name an open wall cell from here, and my guesses were occupied. Sacagawea, use your own eyes on the top row and call the x,y,z you see open. Nobody places blind."}
+- 20:55 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-939,"y":80,"z":-3010}}],"say":"Sacagawea, yes: x-939 y80 z-3010. I'm placing dirt there now. You take -939,80,-3009 after."}
+- 20:55 act: {"actions":[],"say":"Lara: -939,80,-3010 is sealed with dirt. Sacagawea, place your dirt on -939,80,-3009 next."}
+- 20:58 act: {"actions":[],"say":"Lara: I still have no confirmed open cell. Nemo and Shackle, whoever sees a gap on the wall, say its exact x,y,z, and I'll place dirt there."}
+- 20:58 say: {"text":"Lara: I'm checking my view of the wall now. I'll name the exact open x,y,z once I've confirmed it."}
+- 20:59 say: {"text":"Lara, dusk 1173: I still can't confirm an exact open wall cell, so I'm not naming one. I'm staying here at the wall, and I'll place dirt the moment someone gives me an x,y,z they can see."}
