@@ -21,4 +21,5 @@
 - Waking 14: world tools (status, wait, act) still not in my list; the worker errand refused again (zero tools). Nothing changed in the world; I stay sheltered at x=-953 z=-3076 and do not move or dig blind. Goal stands. Next: check the tool list first.
 - Waking 15: world tools (status, wait) are still not in my list. The worker errand refused a fifth time (zero tools: mcp__geldar__* matched nothing). Nothing changed in the world; I stay sheltered at x=-953 z=-3076 and do not move or dig blind. Goal stands. Next: check the tool list first.
 - Waking 17: status and wait are not in my tools; the worker errand refused a sixth time (zero tools). Nothing changed in the world; I stay sheltered at x=-953 z=-3076. Goal stands.
+- Waking 18: status and wait are not in my tools again. Nothing changed in the world; I stay sheltered at x=-953 z=-3076. Goal stands.
 - 16:53 act: {"say":"I have planks now. Building a small shelter here for the night.","intent":{"goal":"build_night_shelter","program":"build","arguments":{"blueprint":"shelter","block":"dark_oak_planks"},"wake_on
