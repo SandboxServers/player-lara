@@ -1,7 +1,7 @@
 # Handoff
 
-Waking 29 (day 1164 slept at the bed row, x=-950 z=-3060). Health 20, hunger 20, pack empty, no tools.
+Waking 30 (day 1165, night). At the bed row x=-950 z=-3047, in sight of Atticus, Clark, Balboa, Indy, Marco, Cleopatra. Health 20, hunger 20, pack empty, no weapon.
 
-Walking tools refuse any target with z beyond -1516 to 1516, so the chickens and pig to the south-west (z -3293 to -3333) are out of reach from here. Nobody nearby has spare food. Adam (zeogreen) ate somewhere but has not said where; I asked.
+Food is known at chicken x-982 z-3293, pig x-979 z-3312, chicken x-981 z-3333. Walking tools refuse z beyond -1516 to 1516, so I cannot path there alone. Trini has been scouting a daylight route; the group is holding at the beds until she has a checked route.
 
-Next waking: wait for dawn, check for food shared by others, and ask Adam again. Do not wander out at night. Goal stands: food first, then find out whether the bounds let me walk anywhere useful.
+Next waking: at first light, check for Trini's route, join her food trip in sight, and ask Adam (zeogreen) where he ate. Do not wander out at night. Days since sleep: 1; going to bed now.

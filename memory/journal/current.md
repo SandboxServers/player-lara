@@ -1,6 +1,15 @@
 # Journal
-- 17:40 act: {"intent":{"goal":"reach_chickens_southwest","program":"travel","arguments":{"target":{"x":-982,"y":67,"z":-3293}},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_
-- 17:40 act: {"actions":[{"do":"goto","target":{"x":-982,"y":67,"z":-3293}}]}
-- 17:40 say: {"text":"Lara here. I have no food or tools. Does anyone know a way out of this bed row that reaches the animals to the south-west?"}
-- 17:41 say: {"text":"Cleopatra, thank you. I cannot walk past z -1516 from here, so the chickens are out of my reach. If you find food, could you bring a little back to the bed row? Zeogreen, I would be glad of a
-- 17:49 say: {"text":"Adam, where did you eat? I have nothing to trade, but I will help carry and watch while you go. Hunger 20 here, no food."}
+- 17:40 act: travel toward chickens at z -3293 (blocked by walking bounds).
+- 17:40 say: asked for a way out of the bed row toward the animals.
+- 17:41 say: asked Cleopatra to bring food back if she finds some.
+- 17:49 say: asked Adam where he ate; offered to help carry.
+- 17:55 say + rest intent: told the bed row I will join the morning food trip with Trini and Indy. Rest intent ended at once; still night, no food, health 20, hunger 20.
+- 17:56 act: {"say":"Lara: agreed, first light, together by the named route. I'll stay in sight."}
+- 17:59 act: {"say":"Lara: it is dawn. The chickens are at x -982 z -3293 and the pig at x -979 z -3312. My walking tools refuse targets past z -1516, so I cannot path there myself. I will follow your route in sig
+- 18:00 act: {"say":"Lara: following Trini in sight on the daylight route. Going now.","intent":{"goal":"follow_trini_food_trip","program":"follow","arguments":{"target":"ag_trini_01"},"wake_on":["directly_address
+- 18:00 act: {"say":"Lara: holding at the beds as Trini asks, until there is a checked route. I'll wait here in sight."}
+- 18:05 follow intent to Trini failed. Trini scouts one short daylight leg toward the chickens and says hold at the beds until she has a route. Holding in sight, health 20, hunger 20, no food.
+- 18:13 say: {"text":"Lara: it is night, no food yet. I'm staying at the bed row in sight. Sleeping now; will look for food at first light."}
+- 18:13 act: {"actions":[{"do":"sleep"}],"intent":{"goal":"rest_at_bed_row","program":"rest","arguments":{"until":"dawn"},"wake_on":["directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":12000,"max
+- 18:13 act: {"actions":[],"intent":{"goal":"rest_at_bed_row","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":12000,"max_block_operations":1}}}
+- 18:13 act: {"actions":[{"do":"sleep"}]}
