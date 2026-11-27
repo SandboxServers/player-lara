@@ -13,3 +13,4 @@
 - 19:24 act: {"actions":[],"say":"All 4 bread is gone: 2 to Ellie, 2 to Marco. I have none left. Frodo and Amelia, I'm sorry. I'm empty-handed now. Whoever finds a cow or food, call out and I'll help carry it."}
 - 19:24 act: {"actions":[{"do":"goto","target":{"x":-944,"y":73,"z":-3047}}],"say":"Lara going to the bed row for the night. I have no bread left, sorry Seven, Ripley, Kirk and Orville. Cows are the next hope in t
 - 19:24 act: {"actions":[{"do":"sleep"}]}
+- 19:28 act: {"say":"Lara, night, at the bed row in the group's sight. Empty pack except 2 dirt, hunger 20. First light: I join the food search."}
