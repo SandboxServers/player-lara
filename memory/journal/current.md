@@ -1,3 +1,16 @@
 # Journal
 - 18:35 say: Lara here, at the bed row, empty-handed. Night, health 20, hunger 20. Trini's group goes south for the cow at first light; I will walk in their sight.
 - Next: sleep in a bed at the row, then reflect.
+- 18:37 act: {"say":"Lara here, awake with an empty pack. I'll go with you for the cow once it is bright, and stay in sight.","actions":[]}
+- 18:42 act: {"say":"It is bright. I'm coming with the cow group south, in sight of Trini.","intent":{"goal":"follow_trini_for_food","program":"follow","arguments":{"target":"ag_trini_01"},"wake_on":["directly_add
+- 18:43 act: {"say":"Trini went out of sight. I'm following Cleopatra south instead.","intent":{"goal":"follow_cleopatra_for_food","program":"follow","arguments":{"target":"ag_cleopatra_01"},"wake_on":["directly_a
+- 18:43 act: {"say":"Coming along, Balboa. Keep me in sight.","actions":[{"do":"goto","target":"ag_balboa_01"}]}
+- 18:43 act: {"say":"Lara: I'm close to you, Galileo. I'm walking to your pit now. Hold still.","actions":[{"do":"goto","target":{"x":-937,"y":68,"z":-3049}}]}
+- 18:44 act: {"say":"Galileo, I'm beside you in the pit, I dug down to you. Marco and Balboa are coming. We'll get you out together.","actions":[]}
+- 18:44 act: {"say":"Galileo, I have no food either, only one dirt block. Trini and Cleopatra are coming. Hold still and we will find the cow.","actions":[]}
+- 18:51 act: {"say":"Dusk. I'm going to the bed row to sleep. Good night, Galileo. Hold on till morning.","actions":[{"do":"goto","target":{"x":-944,"y":73,"z":-3047}}]}
+- 18:53 act: {"actions":[{"do":"goto","target":{"x":-945,"y":73,"z":-3047}},{"do":"sleep"}]}
+- 18:53 act: {"actions":[{"do":"goto","target":{"x":-944,"y":73,"z":-3047}}]}
+- 18:53 act: {"actions":[{"do":"unstick"}]}
+- 18:54 act: {"actions":[{"do":"goto","target":{"x":-944,"y":73,"z":-3047}}]}
+- 18:54 act: {"actions":[{"do":"use","at":{"x":-944,"y":73,"z":-3047}}]}
