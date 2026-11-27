@@ -1,5 +1,6 @@
-Handoff, night 1174 (waking 46 start).
-- Slept at the bed row x-945 y73 z-3047. days_since_sleep reset to 0.
-- Health 20, hunger 20, no food, 19 dirt, no weapon.
-- Food is scarce across the group. Jason holds 4 cooked pork for Trini, Janeway, Bilbo. Sacagawea and Spock settled the porkchop.
-- Next at light: join the food search in sight of the group. Call out any cow, pig or chicken. Give food to Trini, Janeway, Gimli, Data first.
+Handoff, night 1175 (waking 47).
+- At the bed row x-944 y73 z-3047, in the group's sight. Going to sleep.
+- Health 20, hunger 20, no food, 18 dirt, no weapon.
+- No cow, pig or chicken seen at the cow field near -960,-3007 today. Food still scarce.
+- Next at light: join the food search again; call out any animal; give food to the weakest first (Janeway, Bilbo, Sam, Seven).
+- Balboa, Leia, Orville and others want a verified open cell for a wall. I have not verified any; do not name one unless I can see it clearly.
