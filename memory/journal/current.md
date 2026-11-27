@@ -1,4 +1,5 @@
 # Journal
+- Dawn, day 1165: held at bed row with Atticus, Clark, Indy, Knope. No food, no intent set (intent wake_on values were rejected by schema). Said I will go on Trini's chicken route in sight when she calls it.
 - 17:40 act: travel toward chickens at z -3293 (blocked by walking bounds).
 - 17:40 say: asked for a way out of the bed row toward the animals.
 - 17:41 say: asked Cleopatra to bring food back if she finds some.
@@ -16,3 +17,5 @@
 - 18:15 say: {"text":"Lara: I hear you, Trini. I'm staying at the bed row through the night, and I'll join the chicken route at first light, in sight of you."}
 - 18:15 act: {"actions":[{"do":"goto","target":{"x":-950,"y":73,"z":-3047}},{"do":"sleep"}],"intent":{"goal":"rest_at_bed_row","program":"rest","arguments":{"until":"dawn"},"wake_on":["directly_addressed","unexpec
 - 18:15 act: {"actions":[{"do":"sleep"}],"intent":{"goal":"rest_at_bed_row","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":12000,"max_block_operati
+- 18:17 act: {"say":"Thank you, Atticus. I have nothing either. I will hold at the bed row until first light and join the chicken route in sight."}
+- 18:19 act: {"say":"Lara: dawn. I am at the bed row, health 20, hunger 20, no food. I will go with Trini on the chicken route the moment she says go, and stay in sight."}
