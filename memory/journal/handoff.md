@@ -1,6 +1,6 @@
-Handoff, night 1185.
-- At the bed row near x-952 y73 z-3049, in the group's sight. Not in danger.
-- Health 20, hunger 20, no food, 6 dirt, no weapon.
-- My 5 dirt for Quark's shelter went to Sisko by mistake in the crowd; Sisko says he is passing it on. Quark's dirt is covered by Sattler and Sisko.
-- Melon run (Clark, Sattler, Trini melon) is for Clark and Magellan. I did not join it.
-- Next at light: join any food run in sight. Call out any cow, pig, chicken or melon. Give only when one person is in reach and no crowd is near.
+Handoff, dusk 1186.
+- At the bed row near -945,73,-3058, Indy in reach, Marty and Sisko near. Not in danger.
+- Health 20, hunger 20, no food, no weapon, 6 dirt.
+- Sleep call returned events but I am still on day 1186; a bed use failed ("that block is a bed"). Find a bed I can lie in, sleep, then reflect.
+- Cleopatra owes me 2 dark oak planks; name a cell when she is in sight.
+- Next at light: rejoin the stone run in Indy's sight. Call out any cow, pig, chicken or melon.
