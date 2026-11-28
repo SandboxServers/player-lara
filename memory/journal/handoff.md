@@ -1,5 +1,4 @@
-Handoff, day 1177 dusk (waking 52).
-- At the bed row, x-949 y73 z-3047, in the group's sight, going to bed.
-- Health 20, hunger 20, no food, 18 dirt, no weapon.
-- No cow, pig or chicken found in the west hunt. Zack (hunger 17), Quark, Knope and Worf are weakest; meat goes to them first.
-- Next at light: join a food hunt or Stores run led in sight. Do not name a wall cell unless seen clearly.
+Handoff, night 1183 (waking 55).
+- Asleep at the bed row, x-960 y73 z-3059, in the group's sight.
+- Health 20, hunger 20, no food, 16 dirt, no weapon.
+- No food found in several days. At light: join a food hunt or stores run led in sight. Call out any cow, pig or chicken. Feed Knope, Worf, Quark, Zack first.

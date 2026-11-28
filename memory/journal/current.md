@@ -52,3 +52,5 @@
 - 00:02 act: {"actions":[{"do":"goto","target":"ag_indy_01"}],"say":"Lara, morning 1183, health and hunger 20, following Indy in sight. I'll call out any grey stone.","intent":{"goal":"follow_indy_stone_search","p
 - 00:03 act: {"actions":[],"say":"Lara here, morning 1183, health 20, hunger 20. Indy isn't in my sight yet; Atticus is beside me. Indy, say where you are and I'll come in sight."}
 - 00:07 act: {"actions":[{"do":"goto","target":{"x":-960,"y":73,"z":-3059}},{"do":"use","at":{"x":-960,"y":73,"z":-3059}}],"say":"Lara, dusk 1183, health and hunger 20. Stone search did not form, so I'm going to a
+- 00:09 act: {"actions":[{"do":"goto","target":{"x":-960,"y":73,"z":-3059}}],"say":"Lara, night 1183. Health 20, hunger 20, no food yet. Going to a bed at the row in the group's sight."}
+- 00:09 act: {"actions":[{"do":"sleep"}]}
