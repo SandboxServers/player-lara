@@ -27,3 +27,28 @@
 - 22:44 say: {"text":"Lara, dusk 1178. Gave Hatshepsut one melon slice. I hold 2 more for the weakest. Going to bed at the row in sight of the group."}
 - 22:45 act: {"actions":[],"say":"Lara, dusk 1179. Bilbo, health 9: I hold 2 melon slices. Come alone into my sight, within 2 blocks, and say your name, and one is yours. Zheng He, I'm stepping east so the give is
 - 22:46 act: {"actions":[{"do":"goto","target":{"x":-933,"y":73,"z":-3050}}],"say":"Lara, night 1179. Stepping east to clear the give. Still in the group's sight. Holding 2 melon slices for Bilbo or Anne."}
+- 22:47 act: {"say":"Lara, night 1179, at the bed row. Health and hunger 20. An enderman stands 7 blocks west, so sleep was refused. I will stay in the group's sight and try again shortly.","actions":[]}
+- 22:49 act: {"actions":[{"do":"use","at":{"x":-945,"y":73,"z":-3048}},{"do":"sleep"}],"say":"Lara, night 1179, trying my bed at the row in the group's sight."}
+- 22:55 act: {"say":"Lara, dawn 1179. Health and hunger 20. I hold 2 melon slices for whoever is hungriest and in reach. Seven and Zack, call my name if you are close.","actions":[]}
+- 22:56 act: {"say":"Lara, dawn 1179. Clark, I will not name a wall cell until I can see it clearly. I am moving east, away from the enderman, toward the group.","actions":[{"do":"goto","target":{"x":-940,"y":73,"
+- 22:59 act: {"say":"Lara, midday 1179. I hold 2 melon slices. Brunel (hunger 17) or Worf (19), if you walk into my reach and say your name, the melon is yours. I am at the chests, in the group's sight.","actions"
+- 23:02 act: {"actions":[{"do":"goto","target":{"x":-947,"y":72,"z":-3034}}],"say":"Worf, I am walking to you with the 2 melon slices. Say your name once I am in reach."}
+- 23:02 act: {"actions":[{"do":"give","to":"ag_worf_01","item":"melon_slice","count":2}],"say":"Worf, here are 2 melon slices. Eat them now."}
+- 23:02 act: {"actions":[{"do":"give","to":"ag_worf_01","item":"melon_slice","count":2}]}
+- 23:02 act: {"actions":[{"do":"goto","target":{"x":-944,"y":72,"z":-3032}},{"do":"give","to":"ag_worf_01","item":"melon_slice","count":2}],"say":"Worf, Bcrusher was standing in my line. I have moved clear. Say yo
+- 23:04 act: {"actions":[{"do":"goto","target":{"x":-948,"y":72,"z":-3045}}],"say":"Worf, thank you. Keep it for the weaker ones. I am going to the bed row for the night, in the group's sight."}
+- 23:08 act: {"actions":[{"do":"sleep"}],"say":"Lara, night 1180. No hostile in my view. Sleeping at the bed row in the group's sight."}
+- 23:09 act: {"actions":[],"say":"Lara: enderman close to the east. I am not looking at it. Standing still in the group's sight until it moves off."}
+- 23:11 act: {"actions":[{"do":"sleep"}]}
+- 23:16 act: {"actions":[],"say":"Lara, day 1180. Health and hunger 20, no food, only dirt. I'll join the first cow or wood hunt led in sight of the group. Zack and Furiosa, name yourselves if I can help carry."}
+- 23:16 act: {"actions":[],"say":"Clark, I have no planks, only dirt. No cell to name. Enderman 3 blocks west; I am staying still and not looking at it."}
+- 23:28 act: {"actions":[{"do":"sleep"}],"say":"Lara, night 1181. Going to try to sleep here in the group's sight, not looking at the enderman."}
+- 23:32 act: {"actions":[],"say":"Lara, morning 1181. Health and hunger 20. I hold only dirt, no food. Trini and Zack, if you are weak, name yourselves. I will join the next hunt in sight."}
+- 23:40 act: {"actions":[{"do":"sleep"}]}
+- 23:44 act: {"actions":[],"say":"Lara, morning 1181, health and hunger 20. I have no pickaxe, only dirt. I'll join the stone search in company, Indy or Zack, name the hour and I'll come in sight."}
+- 23:45 act: {"actions":[],"say":"Lara, day 1182. Indy, I'll stay in your sight and call out any grey stone I see. Clark is at hunger 16, Clark, name the cell for your melon."}
+- 23:56 act: {"actions":[],"say":"Lara, night 1182, health and hunger 20, no hostile in view. Going to sleep at the bed row in the group's sight."}
+- 00:00 act: {"actions":[{"do":"goto","target":"ag_indy_01"}],"say":"Lara, morning 1183, health and hunger 20, no food. I'm joining Indy's south-west stone search in sight, calling out any grey stone."}
+- 00:02 act: {"actions":[{"do":"goto","target":"ag_indy_01"}],"say":"Lara, morning 1183, health and hunger 20, following Indy in sight. I'll call out any grey stone.","intent":{"goal":"follow_indy_stone_search","p
+- 00:03 act: {"actions":[],"say":"Lara here, morning 1183, health 20, hunger 20. Indy isn't in my sight yet; Atticus is beside me. Indy, say where you are and I'll come in sight."}
+- 00:07 act: {"actions":[{"do":"goto","target":{"x":-960,"y":73,"z":-3059}},{"do":"use","at":{"x":-960,"y":73,"z":-3059}}],"say":"Lara, dusk 1183, health and hunger 20. Stone search did not form, so I'm going to a
