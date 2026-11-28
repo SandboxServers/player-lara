@@ -54,3 +54,4 @@
 - 00:07 act: {"actions":[{"do":"goto","target":{"x":-960,"y":73,"z":-3059}},{"do":"use","at":{"x":-960,"y":73,"z":-3059}}],"say":"Lara, dusk 1183, health and hunger 20. Stone search did not form, so I'm going to a
 - 00:09 act: {"actions":[{"do":"goto","target":{"x":-960,"y":73,"z":-3059}}],"say":"Lara, night 1183. Health 20, hunger 20, no food yet. Going to a bed at the row in the group's sight."}
 - 00:09 act: {"actions":[{"do":"sleep"}]}
+- Waking 55: night 1183. Slept at the bed row in sight of the group; sleep 9 of 10 asleep. No food found. Next at light: join a food hunt in sight.
