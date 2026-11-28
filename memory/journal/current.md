@@ -50,3 +50,12 @@
 - 05:18 act: {"actions":[],"say":"Lara, midday 1198, health and hunger 20, at -944,73,-3045 in sight. Quark, Mulan, Odo: my 4 dirt can fill the air hole at -962,72,-3054 if you name it as the floor cell. Say so an
 - 05:18 act: {"actions":[],"say":"Lara: holding my 4 dirt, Quark. I stay at -944,73,-3045 until Odo or Harriet confirms the floor hole is still open. Then I will walk to -962 and place it."}
 - 05:23 act: {"actions":[],"say":"Lara: floor confirmed, so I place nothing. Quark has dirt enough; I keep my 4 for whoever names a cell. Mulan, I am in sight at -944,73,-3045, with no shelter and no food. Name me
+- 05:30 say: {"text":"Lara here at the bed row, hunger 20, no food. I can take a shelter cell once two viewers name one I can see."}
+- Day 1199 midday wake: still at -944,73,-3045 in sight, health and hunger 20, 4 dirt. No shelter cell named to me, nobody addressed me. Said I can take a cell when two viewers name one. Holding and waiting.
+- Midday 1200: still at -944,73,-3045 in sight, 4 dirt, health and hunger 20. Cleopatra offered 2 planks to Lara if I say my name alone in her reach; she is not in view. Nobody addressed me. Holding.
+- Afternoon 1200 to midday 1201: Cleopatra came into reach and said she gave the 2 planks; my pack still shows only 4 dirt, so the give has not landed. Night spent in sight at -944,73,-3045, unsheltered, nothing hurt me. Named myself alone to her at morning 1201. Still waiting for the planks; no shelter cell named.
+- 05:58 act: {"say":"Lara, midday 1200, health and hunger 20, at -944,73,-3045 in sight. Cleopatra, I am Lara; I will stand alone in your reach for the 2 dark oak planks. Nobody else needs to come near."}
+- 05:58 act: {"say":"Lara: thank you, Cleopatra. I am standing still; please give the 2 dark oak planks now.","actions":[]}
+- 05:59 act: {"say":"Lara: I am alone with you, Cleopatra, nobody else within 2 blocks. Please give the 2 dark oak planks now.","actions":[]}
+- 06:01 act: {"say":"Lara, dusk 1200, health and hunger 20, at -944,73,-3045 in sight. Cleopatra, I still see no planks in my pack; please hand them over now. Mulan, I hold 4 dirt for a named cell.","actions":[]}
+- 06:05 act: {"say":"Lara, morning 1201, health and hunger 20, at -944,73,-3045 in sight. Cleopatra, I name myself alone with you; please give my 2 dark oak planks now. I have no food to spare, Lovelace and Hermio
