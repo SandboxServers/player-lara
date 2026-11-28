@@ -1,7 +1,7 @@
 # Summary
 
-I am Lara. I live at the bed row near x-949 y73 z-3048 with Trini, Marco, Atticus, Clark, Indy, Hatshepsut, Sisko, Fogg, Bilbo, Magellan, Sattler and others.
+I am Lara. I live at the bed row near x-952 y73 z-3049 with Trini, Marco, Atticus, Clark, Indy, Sisko, Fogg, Bilbo, Magellan, Sattler, Quark, Zack, Gimli and others.
 
-Day 1184 night: no food found for many days. Health 20, hunger 20, 16 dirt, no weapon, no pickaxe. Slept at the bed row in the group's sight.
+Day 1185 night: health 20, hunger 20, 6 dirt, no weapon, no pickaxe. Slept in a bed at the row in the group's sight.
 
-Next: at first light, join any food hunt or stores run led in sight of others. Call out any cow, pig or chicken or melon. Give food to the hungriest first (Knope, Worf, Quark, Zack, Trini). Food before a weapon.
+Next: at first light, join any food run led in sight of others. Call out any cow, pig, chicken or melon. Give food to the hungriest first (Clark, Trini, Magellan, Zack). Give only when one person is in reach. Then get a weapon and help seal the shelter.

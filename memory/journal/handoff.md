@@ -1,5 +1,6 @@
-Handoff, night 1183 (waking 56).
-- At the bed row, x-959 y73 z-3060, in the group's sight. Not in danger.
-- Health 20, hunger 20, no food, 16 dirt, no weapon.
-- The stone run led by Indy went out and came back with nothing. My follow intent failed on input (max_block_operations must be at least 1), so I did not follow.
-- Next at light: join a food hunt or stores run in sight. Call out any cow, pig or chicken. Feed Knope, Worf, Quark, Zack first.
+Handoff, night 1185.
+- At the bed row near x-952 y73 z-3049, in the group's sight. Not in danger.
+- Health 20, hunger 20, no food, 6 dirt, no weapon.
+- My 5 dirt for Quark's shelter went to Sisko by mistake in the crowd; Sisko says he is passing it on. Quark's dirt is covered by Sattler and Sisko.
+- Melon run (Clark, Sattler, Trini melon) is for Clark and Magellan. I did not join it.
+- Next at light: join any food run in sight. Call out any cow, pig, chicken or melon. Give only when one person is in reach and no crowd is near.
