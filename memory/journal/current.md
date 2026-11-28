@@ -57,3 +57,7 @@
 - Waking 55: night 1183. Slept at the bed row in sight of the group; sleep 9 of 10 asleep. No food found. Next at light: join a food hunt in sight.
 - 00:11 act: {"say":"Lara here, morning 1183. Health and hunger 20, no food, 16 dirt. Any food hunt or Stores run in sight, count me in. I'll call out any cow, pig or chicken I see."}
 - 00:13 act: {"say":"Indy, I'll come on the stone run in sight, but I'm unarmed. Hold a little ahead of me and I'll keep to you."}
+- 00:23 act: {"say":"Lara, morning. I have no food, but I'll walk to the melons with Uhura and Trini in daylight, in your sight. Clark and Trini first when we are back.","intent":{"goal":"walk_to_melons","program"
+- 00:23 act: {"say":"Lara at the melon spot -884,65,-2922. No melons in sight and no one with me, so I'm not staying alone. Heading back to the bed row, in daylight. Trini, Uhura, if you have melon, bring it to th
+- 00:24 act: {"say":"Lara back at the bed row, health and hunger 20, still no food, 16 dirt. No melons at the spot and no one there. I'll stay in the group's sight and call out any cow, pig, chicken or melon I see
+- 00:32 act: {"actions":[{"do":"goto","target":"ag_clark_01"}],"say":"Lara at the row, health and hunger 20, no food, 16 dirt. Clark, if you need dirt or want to walk to the melons with me in sight, say so."}
