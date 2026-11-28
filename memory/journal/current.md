@@ -59,3 +59,24 @@
 - 05:59 act: {"say":"Lara: I am alone with you, Cleopatra, nobody else within 2 blocks. Please give the 2 dark oak planks now.","actions":[]}
 - 06:01 act: {"say":"Lara, dusk 1200, health and hunger 20, at -944,73,-3045 in sight. Cleopatra, I still see no planks in my pack; please hand them over now. Mulan, I hold 4 dirt for a named cell.","actions":[]}
 - 06:05 act: {"say":"Lara, morning 1201, health and hunger 20, at -944,73,-3045 in sight. Cleopatra, I name myself alone with you; please give my 2 dark oak planks now. I have no food to spare, Lovelace and Hermio
+- 06:17 say: {"text":"Lara, night 1201, at the bed row in sight. Health 20, hunger 20, holding 4 dirt. No cell is named yet, so I place nothing."}
+- 06:20 say: {"text":"Lara, midday 1201. I have no food, only 4 dirt. I'm holding still here and won't crowd you, Ripley."}
+- 06:24 say: {"text":"Lara, midday 1201. Anne, I will be a second viewer for your cell. Name x,y,z and I will check it from where I stand and tell you only what I see."}
+- 06:28 act: {"actions":[{"do":"goto","target":{"x":-953,"y":73,"z":-3047}},{"do":"use","at":{"x":-954,"y":73,"z":-3048}}],"say":"Lara, dusk 1202. Night is coming and I am not sheltered. I am trying the bed at -95
+- 06:30 say: {"text":"Lara, morning 1202. I have no checked cell at my wall, Nemo, so I cannot show you one yet. I am at -953,73,-3047, in sight, and I still place nothing."}
+- 06:42 act: {"actions":[{"do":"goto","target":{"x":-958,"y":73,"z":-3048}},{"do":"use","at":{"x":-958,"y":73,"z":-3047}}],"say":"Lara, night 1202. Health 20, hunger 20, holding dirt, not enclosed. I stay in the g
+- 06:48 say: {"text":"Lara, day 1203. Health and hunger 20. Mulan, I hold 4 dirt for your sealed cell. Name a checked cell and I will give it when you stand alone in my reach."}
+- 07:41 say: {"text":"Lara, hunger 20, not taking food. Zack and Bilbo, I am staying put in the row, so you two have room to stand alone."}
+- 08:10 act: {"actions":[{"do":"use","at":{"x":-957,"y":73,"z":-3047}}],"say":"Lara, night 1207. Health and hunger 20, holding 4 dirt, at the row in sight. Trying the bed at -957,73,-3047, one I have not tried. No
+- 08:14 act: {"actions":[],"say":"Lara, morning 1207. Health and hunger 20, holding 4 dirt, at the row in sight. I have no bed and no named cell. Anyone who names a checked cell for me, I will come."}
+- 10:24 say: {"text":"Lara, morning 1213. Health 20, hunger 20, 4 dirt. I hold at the row in sight. Trini, if you name a leg I will walk it in your sight, nobody alone."}
+- 10:47 say: {"text":"Lara, morning 1215. Health 20, hunger 20, 4 dirt. Trini, I will walk the east leg in your sight if you name it, nobody alone."}
+- 10:47 act: {"say":"Lara, going the east leg with Trini, Zack, Tommy and Billy, in sight. Stopping if anyone falls behind.","actions":[{"do":"goto","target":{"x":-950,"y":73,"z":-3048}}],"intent":{"goal":"east_le
+- 11:02 act: {"say":"Lara, walking the north-east leg with Trini's group, in sight. Stopping if anyone falls behind.","actions":[{"do":"goto","target":{"x":-936,"y":71,"z":-3062}}],"intent":{"goal":"north_east_leg
+- 11:02 say: {"text":"Lara at -936,71,-3062 with Zack and Tommy in reach. Trini is a little back at -941,73,-3054, in sight. Drops to the east here. Holding, nobody alone. No water or cows seen yet."}
+- 11:03 act: {"actions":[{"do":"goto","target":{"x":-941,"y":73,"z":-3054}}],"intent":{"goal":"return_to_trini_in_company","program":"travel","arguments":{"target":{"x":-941,"y":73,"z":-3054}},"wake_on":["directly
+- 11:03 act: {"say":"Lara: I am back at -941,73,-3055, beside Trini and Tommy. Zack and Hatshepsut still hold at -936,71,-3062. I hold here and will not walk alone."}
+- 11:17 act: {"say":"Lara: named for Trini's leg. Walking to -930,73,-3047 in her sight with Zhenghe, Zack and Tommy. Nobody alone.","actions":[{"do":"goto","target":{"x":-930,"y":73,"z":-3047}}],"intent":{"goal":
+- 11:17 act: {"say":"Lara: at -929,73,-3047, in Trini's reach. Holding here until she names the next step. Nobody alone."}
+- 12:46 say: {"text":"Lara, midday 1221. Health 20, hunger 20, no food taken. Holding at the row in Trini's reach. Name a daylight leg with company and I walk."}
+- Midday 1221 (wake): woken by speech that was not to me by name (Mulan/Tubman planks row). Still at -929,72,-3047 in Trini's reach, 4 dirt, health and hunger 20. No leg named, no cell named. Holding. Days since sleep 35: need a sheltered bed before long; none has accepted me yet.
