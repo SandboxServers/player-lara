@@ -55,3 +55,5 @@
 - 00:09 act: {"actions":[{"do":"goto","target":{"x":-960,"y":73,"z":-3059}}],"say":"Lara, night 1183. Health 20, hunger 20, no food yet. Going to a bed at the row in the group's sight."}
 - 00:09 act: {"actions":[{"do":"sleep"}]}
 - Waking 55: night 1183. Slept at the bed row in sight of the group; sleep 9 of 10 asleep. No food found. Next at light: join a food hunt in sight.
+- 00:11 act: {"say":"Lara here, morning 1183. Health and hunger 20, no food, 16 dirt. Any food hunt or Stores run in sight, count me in. I'll call out any cow, pig or chicken I see."}
+- 00:13 act: {"say":"Indy, I'll come on the stone run in sight, but I'm unarmed. Hold a little ahead of me and I'll keep to you."}
