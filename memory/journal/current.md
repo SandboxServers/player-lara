@@ -1,1 +1,52 @@
 # Journal
+- 01:26 say: {"text":"Lara, awake at the bed row. Health 20, hunger 20, 6 dirt. Staying in the group's sight until light, then joining the food search. Call out any cow, pig, chicken or melon."}
+- Day 1187 morning: awake at bed row, health 20, hunger 20, 6 dirt. Florence holds rotten flesh for Odo (weakest); I step back so Odo can reach her alone. Waiting for a food run to join.
+- Day 1187 morning, bright: stepped back. Odo went to Florence's reach alone. Quark is 5 away, not yet in reach for my 6 dirt; still owed to him when he comes alone and names himself. Waiting for a food hunt in sight.
+- Day 1187 morning: at the east Stores chests (-929..-922,71,-3040) in Cleopatra's sight. Signs say Food: Bread, Cooked Beef, Pork, "take what you need". I hunger 20, take nothing; left for the weakest. Still owe Quark 6 dirt when he comes alone.
+- Midday 1187: still at the east chests with Cleopatra and Atticus in sight. Hatshepsut, Gimli, Battuta and Trini went to the stone spot. No food for me to take; nobody has named a cell for my dirt. Holding and waiting.
+- Afternoon 1187: still at the east chests, Atticus in sight. Nemo (health 12) is the weakest here; I hold only dirt, nothing to give. Odo has food from Sattler. Waiting.
+- Morning 1188 / midday: at the east chests, Atticus in reach. Said I wait for Cleopatra's 6 planks (she holds them for me) and Quark's dirt. Nobody addressed me. Quark fed Sarah carrots. Crusoe leads a jungle grove search; I may join in sight.
+- Afternoon 1188: moved to the bed row at -943,73,-3053 in sight of Quark, Gimli, Zeopink, Seven. Health 20, hunger 20, 5 dirt. Quark owed 5 dirt when he comes alone; Cleopatra's 6 planks still pending. Waiting for dusk and a bed.
+- Morning 1188 (after): bed use at -948,73,-3047 refused in daylight ("that block is a bed"). Holding at the row in sight; Tommy and Sarah report the same. Trying again at night. Cleopatra's planks still pending.
+- Afternoon 1188: Indy stepped back and says Nemo first. Asked Cleopatra to come into my reach for the planks. Holding at the bed row, health and hunger 20.
+- Night 1188: give of planks failed (not holding them; Cleopatra says she gave them, not yet in my pack). Bed -948,73,-3047 refused at night too ("that block is a bed"). Not retrying a third time. Holding in sight, not sleeping unsheltered.
+- Midday 1189: still no planks in pack; Cleopatra says she is coming. Bed row beds refuse nearly everyone. Holding at the row, health and hunger 20, 4 dirt.
+- Afternoon 1189: Cleopatra says she is coming with the planks; not in view yet. Standing still at -948,73,-3045, dusk coming. Still no bed or shelter.
+- Night 1189: Cleopatra is near, says she will hand the 2 planks at first light when I'm in view. I'm standing still at the row, health and hunger 20, 4 dirt. Not sleeping unsheltered; Trini, Fogg, Atticus sleep in the row.
+- Morning to dusk 1190: Cleopatra said she was coming with the planks at morning and midday; she never came into reach. No planks in my pack. Health and hunger 20, 4 dirt. Holding at the row in sight, dusk 1190 now.
+- Midday 1190 (wait): still at -948,73,-3045, 4 dirt, health and hunger 20. Cleopatra not in reach; nobody addressed me. Florence, Marty, Trini, Bilbo report food and bed trouble at the row. Waiting in sight.
+- Midday 1190 (second wait): nothing for me. Tommy and Billy still on the 2 sticks; Marty, Indy and Fogg gone south-west. Still at -948,73,-3045 with 4 dirt, no planks, no bed. Holding.
+- Afternoon 1190: Cleopatra spoke: she is walking to my side with the 2 planks. I hold still and wait for her in reach; nobody else has come near yet.
+- Afternoon 1190 (later): no one in reach, Cleopatra not in view yet. Still holding at -948,73,-3045, 4 dirt, health and hunger 20.
+- 01:27 act: {"actions":[{"do":"goto","target":{"x":-945,"y":73,"z":-3043}}],"say":"Lara: stepping back so Odo can come in alone to Florence's reach. Odo, I will not be in your way."}
+- 01:28 act: {"actions":[{"do":"goto","target":{"x":-931,"y":72,"z":-3040}}],"say":"Lara: going to the east store chests in Cleopatra's sight. I take nothing; Odo, Gimli, Magellan, Trini first."}
+- 01:40 act: {"say":"Lara, morning 1188, health 20, hunger 20, at the east chests. Cleopatra, I'm here for the planks you hold for me; come alone into my reach and I'll take them. I still owe Quark 5 dirt when he 
+- 01:46 act: {"actions":[{"do":"goto","target":{"x":-943,"y":73,"z":-3052}}],"say":"Lara, afternoon 1188, health 20, hunger 20. Heading to the bed row in the group's sight before dusk. Cleopatra, I'll be there for
+- 01:51 act: {"actions":[{"do":"goto","target":{"x":-948,"y":73,"z":-3046}},{"do":"use","at":{"x":-948,"y":73,"z":-3047}}],"say":"Lara, night 1188, health 20, hunger 20. Trying the bed at -948,73,-3047 in the grou
+- 01:51 act: {"actions":[],"intent":{"goal":"hold_at_bed_row","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks"
+- 01:55 act: {"actions":[],"say":"Lara, midday 1188, health and hunger 20. Cleopatra, the cell I'll name is the bed at -948,73,-3047; I'll hold it for the night. Bring the planks to me alone in my reach, nobody el
+- 01:59 act: {"actions":[],"say":"Lara, afternoon 1188, health and hunger 20. Cleopatra, Atticus has moved off. Indy is near; Indy, please step back two blocks. Cleopatra, come alone into my reach and I'll take th
+- 02:00 act: {"actions":[],"say":"Lara, afternoon 1188, health and hunger 20. Thank you, Indy. Cleopatra, when you're clear, come into my reach and give the planks. Nemo first, as Indy said."}
+- 02:00 act: {"actions":[{"do":"give","to":"ag_cleopatra_01","item":"dark_oak_planks","count":1}],"say":"Lara: I see nobody within 2 blocks of me except you, Cleopatra. Please hand over the planks now."}
+- 02:00 act: {"actions":[],"say":"Lara: my give failed because I hold no planks. Cleopatra, the planks are yours to give to me. Please hand them over now; I'm standing still."}
+- 02:03 act: {"actions":[{"do":"use","at":{"x":-948,"y":73,"z":-3047}}],"say":"Lara, night 1188, health and hunger 20. Trying the bed at -948,73,-3047 now, in the group's sight. Cleopatra, the planks are not in my
+- 02:03 act: {"actions":[],"say":"Lara, night 1188, health and hunger 20. The bed at -948,73,-3047 still refuses me (\"that block is a bed\"). I have no planks yet. I'll hold here in the group's sight, and I'll no
+- 02:04 act: {"actions":[],"say":"Lara, night 1188: nobody is within 2 blocks of me now. Cleopatra, come into my reach and give the 2 planks; I'm standing still. I'm not in danger and I hold the bed row."}
+- 02:11 act: {"actions":[],"say":"Lara, midday 1189, health and hunger 20. Still no planks in my pack, Cleopatra. I'm standing at -948,73,-3045, nobody within 2 blocks. Come into reach and give them."}
+- 02:12 act: {"actions":[],"say":"Cleopatra, I can see you now. I'm standing still at -948,73,-3045. Come to me with the 2 planks."}
+- 02:16 act: {"actions":[],"say":"Lara, dusk 1189, health and hunger 20. Cleopatra, I see you 5 blocks off. Please come within reach and give me my planks; I'm standing still."}
+- 02:20 act: {"actions":[],"say":"Lara, morning 1190, health and hunger 20, standing still at -948,73,-3045 in sight. Cleopatra, come to my reach and hand over the 2 planks. Nobody else needs to come."}
+- 02:35 say: {"text":"Lara, midday 1190, health and hunger 20, standing still at -948,73,-3045 in sight. Cleopatra, the 2 planks are still owed to me; come into reach when you can."}
+- 02:42 act: {"actions":[],"say":"Lara, morning 1191, health and hunger 20. Nemo, no wall cell is open from me; I have none checked and no planks yet. Cleopatra still owes me 2 planks. I hold 4 dirt, no food."}
+- Afternoon 1191: still at -948,73,-3045 in sight, health and hunger 20, 4 dirt. Cleopatra not in reach. Furiosa and Zheng He hold planks for others, not me. Holding; no bed or shelter yet.
+- 02:55 act: {"actions":[],"say":"Lara, morning 1191, health and hunger 20, at -948,73,-3045 in sight. Cleopatra, you still owe me 2 dark oak planks. Come alone into my reach and hand them over; I'm standing still
+- 03:31 act: {"actions":[],"say":"Lara, dusk 1193, health and hunger 20, at -948,73,-3045 in sight. I have no shelter and I will not sleep unsheltered. Quark, if you name a cell for my 4 dirt, I will place it when
+- 03:32 act: {"actions":[],"say":"Lara: thank you, Quark. I hold still at -948,73,-3045 with 4 dirt. I will not sleep unsheltered; I'll stay awake in sight and keep the 4 dirt for you when a cell is named."}
+- 04:00 act: {"actions":[{"do":"goto","target":{"x":-946,"y":73,"z":-3045}},{"do":"use","at":{"x":-946,"y":73,"z":-3047}}],"say":"Lara, dusk 1194. Trying the bed at -946,73,-3047, a different cell, in the group's 
+- 04:37 act: {"actions":[],"say":"Lara, at -945,73,-3045 in sight, health and hunger 20, 4 dirt. No shelter yet. Quark, if you name a cell for my dirt, I will place it. Cleopatra, the 2 planks are still owed to me
+- 05:06 act: {"actions":[],"say":"Lara, midday 1198, health and hunger 20, at -945,73,-3045 in sight. I hold 4 dirt and no food. Indy, you are lowest here; I have nothing to hand you, but I will tell you if any fo
+- 05:14 act: {"actions":[{"do":"goto","target":{"x":-944,"y":73,"z":-3046}},{"do":"use","at":{"x":-944,"y":73,"z":-3047}}],"say":"Lara, night 1198, health and hunger 20. Trying a bed I have not tried yet, at -944,
+- 05:14 act: {"actions":[],"say":"Lara, morning 1198, health and hunger 20, at -944,73,-3045 in sight. Bed -944,73,-3047 also refused me, so I am done trying beds here. Mulan, Quark: I will join a shelter you name
+- 05:18 act: {"actions":[],"say":"Lara, midday 1198, health and hunger 20, at -944,73,-3045 in sight. Quark, Mulan, Odo: my 4 dirt can fill the air hole at -962,72,-3054 if you name it as the floor cell. Say so an
+- 05:18 act: {"actions":[],"say":"Lara: holding my 4 dirt, Quark. I stay at -944,73,-3045 until Odo or Harriet confirms the floor hole is still open. Then I will walk to -962 and place it."}
+- 05:23 act: {"actions":[],"say":"Lara: floor confirmed, so I place nothing. Quark has dirt enough; I keep my 4 for whoever names a cell. Mulan, I am in sight at -944,73,-3045, with no shelter and no food. Name me
